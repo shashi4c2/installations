@@ -65,8 +65,8 @@ then see the requirements for that particular version of sonarqube(java version 
     ''''''
         in webserver section;
         <remove '#'>
-        web.server.host=0.0.0.0
-        web.server.context=/sonar (these will connect to our sonarqube server by passing 'sonar)
+        web.server.host=0.0.0.0 
+        web.server.context=/sonar (these will connect to our sonarqube server by passing 'sonar')
         sonar port=9000
     ''''''
     exit vi
