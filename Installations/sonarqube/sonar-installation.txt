@@ -7,7 +7,7 @@ Installation & setup sonarqube;
 
 # INSTALLATION:
 1. login into the instance & excute
-    $ sudo -i (become root user)
+    $ sudo -i 
     $ sudo apt-get update
 2. Now goto sonarqube downloads page on google, then choose the version of sonarqube(7.7 or 6.7.7 or 6.6..etc);
 then see the requirements for that particular version of sonarqube(java version & mysql srver versions), excute
